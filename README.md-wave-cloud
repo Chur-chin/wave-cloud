@@ -1,0 +1,8 @@
+# wave-cloud ☁️〰️
+
+**Wave Cloud — Serverless Wave Physics Computing Platform**
+
+> wavephysai 시뮬레이션을 클라우드에서 서버리스로 실행하는 플랫폼.
+> Google Cloud Functions의 구조를 wave-physics 연산 단위로 대체합니다.
+
+```
